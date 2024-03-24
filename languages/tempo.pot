@@ -1,0 +1,1519 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: "
+"Tempo Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example."
+"com>\n"
+"POT-Creation-Date: "
+"2024-03-02 01:03-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<translations@example."
+"com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/"
+"plain; charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: "
+"nplurals=2; plural=n != "
+"1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.4.2\n"
+"X-Poedit-"
+"SearchPath-0: .\n"
+
+#: 404.php:17
+msgid ""
+"Oops! That page "
+"can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing "
+"was found at this "
+"location. Maybe try one "
+"of the links below or a "
+"search?"
+msgstr ""
+
+#: class-wp-bootstrap-navwalker.php:368
+msgid "Add a menu"
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid ""
+"One thought on &ldquo;"
+"%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid ""
+"%1$s thought on &ldquo;"
+"%2$s&rdquo;"
+msgid_plural ""
+"%1$s thoughts on &ldquo;"
+"%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid ""
+"Comments are closed."
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:32
+msgid "Add new field"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:37
+msgid "Customizer Repeater"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:240
+#: customizer-repeater/class/customizer-repeater-control.php:249
+#: customizer-repeater/class/customizer-repeater-control.php:343
+#: customizer-repeater/class/customizer-repeater-control.php:351
+msgid "Color"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:257
+#: customizer-repeater/class/customizer-repeater-control.php:359
+#: inc/about-customizer.php:24
+#: inc/contact-customizer.php:39
+#: inc/cta-customizer.php:61
+#: inc/custom-header.php:89
+#: inc/custom-header.php:109
+#: inc/faq-customizer.php:42
+#: inc/portfolio-customizer.php:36
+#: inc/price-customizer.php:27
+#: inc/services-customizer.php:42
+#: inc/team-customizer.php:36
+msgid "Title"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:264
+#: customizer-repeater/class/customizer-repeater-control.php:366
+#: inc/custom-header.php:129
+msgid "Subtitle"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:271
+#: customizer-repeater/class/customizer-repeater-control.php:286
+#: customizer-repeater/class/customizer-repeater-control.php:373
+#: customizer-repeater/class/customizer-repeater-control.php:387
+msgid "Text"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:278
+#: customizer-repeater/class/customizer-repeater-control.php:293
+#: customizer-repeater/class/customizer-repeater-control.php:380
+#: customizer-repeater/class/customizer-repeater-control.php:394
+#: customizer-repeater/class/customizer-repeater-control.php:518
+#: customizer-repeater/class/customizer-repeater-control.php:540
+msgid "Link"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:301
+#: customizer-repeater/class/customizer-repeater-control.php:401
+msgid "Shortcode"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:316
+#: customizer-repeater/class/customizer-repeater-control.php:411
+msgid "Delete field"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:452
+#: customizer-repeater/class/customizer-repeater-control.php:488
+msgid "Icon"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:457
+#: customizer-repeater/class/customizer-repeater-control.php:502
+#, php-format
+msgid ""
+"Note: Some icons may not "
+"be displayed here. You "
+"can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:458
+#: customizer-repeater/class/customizer-repeater-control.php:503
+msgid ""
+"http://fontawesome.io/"
+"icons/"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:475
+#: customizer-repeater/class/customizer-repeater-control.php:489
+msgid "Image"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:478
+msgid "Upload Image"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:485
+msgid "Image type"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:490
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:362
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:382
+msgid "None"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:498
+msgid "Social icons"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:521
+#: customizer-repeater/class/customizer-repeater-control.php:551
+msgid "Remove Icon"
+msgstr ""
+
+#: customizer-repeater/class/customizer-repeater-control.php:526
+#: customizer-repeater/class/customizer-repeater-control.php:559
+msgid "Add Icon"
+msgstr ""
+
+#: functions.php:56
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:121
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:123
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:137
+msgid "Contact Info"
+msgstr ""
+
+#: functions.php:139
+msgid ""
+"Widgets in this area "
+"will be displayed in the "
+"contact info section of "
+"the footer."
+msgstr ""
+
+#: functions.php:147
+msgid "Useful Links"
+msgstr ""
+
+#: functions.php:149
+msgid ""
+"Widgets in this area "
+"will be displayed in the "
+"first links section of "
+"the footer."
+msgstr ""
+
+#: functions.php:157
+msgid "Our Services"
+msgstr ""
+
+#: functions.php:159
+msgid ""
+"Widgets in this area "
+"will be displayed in the "
+"second links section of "
+"the footer."
+msgstr ""
+
+#: functions.php:167
+msgid "Newsletter"
+msgstr ""
+
+#: functions.php:169
+#: functions.php:179
+#: functions.php:189
+msgid ""
+"Widgets in this area "
+"will be displayed in the "
+"newsletter section of "
+"the footer."
+msgstr ""
+
+#: functions.php:177
+msgid "Copyright"
+msgstr ""
+
+#: functions.php:187
+#: inc/social-links-customizer.php:10
+#: inc/social-links-customizer.php:23
+msgid "Social Links"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: inc/about-customizer.php:5
+msgid "About Section"
+msgstr ""
+
+#: inc/about-customizer.php:14
+msgid ""
+"Display About Section"
+msgstr ""
+
+#: inc/about-customizer.php:26
+msgid "Add a title"
+msgstr ""
+
+#: inc/about-customizer.php:35
+#: inc/contact-customizer.php:58
+#: inc/cta-customizer.php:80
+#: inc/portfolio-customizer.php:55
+#: inc/price-customizer.php:37
+#: inc/services-customizer.php:62
+#: inc/team-customizer.php:55
+msgid "Description"
+msgstr ""
+
+#: inc/about-customizer.php:37
+msgid "Add a description"
+msgstr ""
+
+#: inc/about-customizer.php:45
+msgid ""
+"WYSIWYG Control for Left "
+"Text"
+msgstr ""
+
+#: inc/about-customizer.php:55
+msgid ""
+"WYSIWYG Control for "
+"Right Text"
+msgstr ""
+
+#: inc/about-customizer.php:65
+#: inc/cta-customizer.php:100
+#: inc/custom-header.php:149
+msgid "Button Text"
+msgstr ""
+
+#: inc/about-customizer.php:67
+#: inc/custom-header.php:141
+msgid "Read More"
+msgstr ""
+
+#: inc/about-customizer.php:75
+#: inc/cta-customizer.php:120
+#: inc/custom-header.php:169
+msgid "Button Link"
+msgstr ""
+
+#: inc/color-customizer.php:10
+msgid "Theme Colors"
+msgstr ""
+
+#: inc/color-customizer.php:16
+msgid "Primary Color"
+msgstr ""
+
+#: inc/color-customizer.php:24
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/contact-customizer.php:7
+#: inc/contact-customizer.php:129
+msgid "Contact Form"
+msgstr ""
+
+#: inc/contact-customizer.php:21
+msgid ""
+"Display Contact Section"
+msgstr ""
+
+#: inc/contact-customizer.php:77
+msgid "Location"
+msgstr ""
+
+#: inc/contact-customizer.php:96
+msgid "Email"
+msgstr ""
+
+#: inc/contact-customizer.php:115
+msgid "Phone"
+msgstr ""
+
+#: inc/contact-customizer.php:142
+msgid "Google Maps"
+msgstr ""
+
+#: inc/cta-customizer.php:8
+#: inc/cta-customizer.php:52
+#: inc/cta-customizer.php:91
+msgid "Call To Action"
+msgstr ""
+
+#: inc/cta-customizer.php:22
+msgid "Display CTA Section"
+msgstr ""
+
+#: inc/cta-customizer.php:41
+#: kirki/kirki-packages/field-background/src/Background.php:103
+msgid "Background Image"
+msgstr ""
+
+#: inc/custom-header.php:70
+msgid "Header"
+msgstr ""
+
+#: inc/custom-header.php:81
+#: inc/custom-header.php:101
+msgid "Add a Title"
+msgstr ""
+
+#: inc/custom-header.php:90
+#: inc/custom-header.php:110
+msgid "Write Your Title"
+msgstr ""
+
+#: inc/custom-header.php:121
+msgid "Add a Subtitle"
+msgstr ""
+
+#: inc/custom-header.php:130
+msgid "Your Text"
+msgstr ""
+
+#: inc/custom-header.php:150
+msgid "Add Button Text"
+msgstr ""
+
+#: inc/custom-header.php:170
+msgid "Add Button Link"
+msgstr ""
+
+#: inc/custom-header.php:188
+msgid "Header Image"
+msgstr ""
+
+#: inc/faq-customizer.php:9
+msgid "FAQ Section"
+msgstr ""
+
+#: inc/faq-customizer.php:22
+msgid "Display FAQ Section"
+msgstr ""
+
+#: inc/faq-customizer.php:57
+msgid "FAQ"
+msgstr ""
+
+#: inc/faq-customizer.php:74
+msgid "Question"
+msgstr ""
+
+#: inc/portfolio-customizer.php:5
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/portfolio-customizer.php:18
+msgid ""
+"Display Portfolio Section"
+msgstr ""
+
+#: inc/portfolio-customizer.php:69
+msgid ""
+"Selected Portfolio "
+"Categories (separate by "
+"name and comma)"
+msgstr ""
+
+#: inc/price-customizer.php:5
+msgid "Pricing Section"
+msgstr ""
+
+#: inc/price-customizer.php:18
+msgid ""
+"Display Pricing Section"
+msgstr ""
+
+#: inc/price-customizer.php:49
+#, php-format
+msgid ""
+"Pricing Plan %s Name"
+msgstr ""
+
+#: inc/price-customizer.php:60
+#, php-format
+msgid ""
+"Pricing Plan %s Price"
+msgstr ""
+
+#: inc/price-customizer.php:71
+#, php-format
+msgid ""
+"Pricing Plan %s Features"
+msgstr ""
+
+#: inc/price-customizer.php:81
+#, php-format
+msgid ""
+"Pricing Plan %s Buy Now "
+"Button Link"
+msgstr ""
+
+#: inc/services-customizer.php:10
+#: inc/services-customizer.php:78
+msgid "Services Section"
+msgstr ""
+
+#: inc/services-customizer.php:23
+msgid ""
+"Display Services Section"
+msgstr ""
+
+#: inc/team-customizer.php:5
+msgid "Team Section"
+msgstr ""
+
+#: inc/team-customizer.php:18
+msgid ""
+"Display Team Section"
+msgstr ""
+
+#: inc/team-customizer.php:71
+#, php-format
+msgid ""
+"Team Member %s Image"
+msgstr ""
+
+#: inc/team-customizer.php:84
+#, php-format
+msgid "Team Member %s Name"
+msgstr ""
+
+#: inc/team-customizer.php:97
+#, php-format
+msgid "Team Member %s Role"
+msgstr ""
+
+#: inc/team-customizer.php:110
+#, php-format
+msgid ""
+"Team Member %s Facebook "
+"URL"
+msgstr ""
+
+#: inc/team-customizer.php:123
+#, php-format
+msgid ""
+"Team Member %s Instagram "
+"URL"
+msgstr ""
+
+#: inc/team-customizer.php:136
+#, php-format
+msgid ""
+"Team Member %s Twitter "
+"URL"
+msgstr ""
+
+#: inc/team-customizer.php:149
+#, php-format
+msgid ""
+"Team Member %s LinkedIn "
+"URL"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:46
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgctxt ""
+"list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:83
+#, php-format
+msgid ""
+"Leave a Comment<span "
+"class=\"screen-reader-"
+"text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:100
+#: template-parts/content-page.php:39
+#, php-format
+msgid ""
+"Edit <span "
+"class=\"screen-reader-"
+"text\">%s</span>"
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/Field.php:267
+#, php-format
+msgid ""
+"Typo found in field %s - "
+"setting instead of "
+"settings."
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/Field.php:278
+#, php-format
+msgid ""
+"Config not defined for "
+"field %1$s - See %2$s "
+"for details on how to "
+"properly add fields."
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/Field.php:394
+#, php-format
+msgid ""
+"\"partial_refresh\" "
+"invalid entry in field %s"
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/Field.php:520
+#: kirki/kirki-packages/compatibility/src/Field.php:531
+#: kirki/kirki-packages/module-css/src/CSS.php:133
+#: kirki/kirki-packages/module-css/src/CSS.php:144
+#: kirki/kirki-packages/module-postmessage/src/Postmessage.php:69
+#, php-format
+msgid ""
+"\"output\" invalid "
+"format in field %s. The "
+"\"output\" argument "
+"should be defined as an "
+"array of arrays."
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/Init.php:206
+msgid ""
+"We detected you're using "
+"Kirki\\Compatibility\\Init::"
+"get_variables(). Please "
+"use \\Kirki\\Util\\Util::"
+"get_variables() instead."
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/Init.php:257
+msgid ""
+"Your theme uses a Font "
+"Awesome field for icons. "
+"To avoid issues with "
+"missing icons on your "
+"frontend we recommend "
+"you install the official "
+"Font Awesome plugin."
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/Init.php:261
+msgid ""
+"Don't show this again"
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/Kirki.php:191
+msgid ""
+"Kirki fields should not "
+"be added on "
+"customize_register. "
+"Please add them "
+"directly, or on init."
+msgstr ""
+
+#: kirki/kirki-packages/compatibility/src/deprecated/functions.php:20
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr ""
+
+#: kirki/kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr ""
+
+#: kirki/kirki-packages/control-dashicons/src/Control/Dashicons.php:116
+msgid "Miscelaneous"
+msgstr ""
+
+#: kirki/kirki-packages/control-dimension/src/Control/Dimension.php:67
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:74
+msgid "Invalid Value"
+msgstr ""
+
+#: kirki/kirki-packages/control-image/dist/control.js:1
+#: kirki/kirki-packages/control-image/src/Control/Image.php:82
+#: kirki/kirki-packages/control-image/src/Field/Image.php:115
+#: kirki/kirki-packages/control-image/src/control.js:100
+msgid "No image selected"
+msgstr ""
+
+#: kirki/kirki-packages/control-image/src/Control/Image.php:85
+#: kirki/kirki-packages/control-image/src/Field/Image.php:114
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:453
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:485
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr ""
+
+#: kirki/kirki-packages/control-image/src/Control/Image.php:87
+#: kirki/kirki-packages/control-image/src/Field/Image.php:113
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr ""
+
+#: kirki/kirki-packages/control-image/src/Control/Image.php:89
+#: kirki/kirki-packages/control-image/src/Field/Image.php:111
+#: kirki/kirki-packages/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr ""
+
+#: kirki/kirki-packages/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr ""
+
+#: kirki/kirki-packages/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr ""
+
+#: kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:162
+msgid "Select..."
+msgstr ""
+
+#: kirki/kirki-packages/control-react-select/src/Control/ReactSelect.php:169
+#, php-format
+msgid ""
+"You can only select %s "
+"items"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:104
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:275
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:443
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:475
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr ""
+
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: kirki/kirki-packages/control-repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:84
+msgid "Background Color"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:119
+msgid "Background Repeat"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:123
+msgid "No Repeat"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:124
+msgid "Repeat All"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:152
+msgid "Background Position"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:156
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:157
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:158
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:159
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:160
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:161
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:162
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:163
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:164
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:190
+msgid "Background Size"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:194
+msgid "Cover"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:195
+msgid "Contain"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:196
+msgid "Auto"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:222
+msgid ""
+"Background Attachment"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:227
+msgid "Scroll"
+msgstr ""
+
+#: kirki/kirki-packages/field-background/src/Background.php:228
+msgid "Fixed"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:59
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:61
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:63
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:67
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:68
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:69
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr ""
+
+#: kirki/kirki-packages/field-dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:112
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:116
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:120
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:179
+msgid "700"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:124
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:139
+msgid "100"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:147
+msgid "200"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:155
+msgid "300"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:163
+msgid "500"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:171
+msgid "600"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:187
+msgid "800"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:195
+msgid "900"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:328
+msgid "Font Color"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr ""
+
+#: kirki/kirki-packages/field-typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr ""
+
+#: kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr ""
+
+#: kirki/kirki-packages/module-sections/src/Section_Types/Nested.php:65
+#, php-format
+msgid ""
+"Customizing &#9656; %s"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:162
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:164
+msgid ""
+"Ultra-Light 100 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:169
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:174
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:176
+msgid ""
+"Semi-Bold 600 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:179
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:181
+msgid ""
+"Extra-Bold 800 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:182
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr ""
+
+#: kirki/kirki-packages/module-webfonts/src/Webfonts/Fonts.php:184
+msgid ""
+"Ultra-Bold 900 Italic"
+msgstr ""
+
+#: kirki/kirki-packages/settings/src/Notice.php:132
+msgid "Invalid nonce"
+msgstr ""
+
+#: kirki/kirki-packages/settings/src/Notice.php:136
+msgid ""
+"You don't have "
+"capability to run this "
+"action"
+msgstr ""
+
+#: kirki/kirki-packages/settings/src/Notice.php:144
+msgid ""
+"Discount notice has been "
+"dismissed"
+msgstr ""
+
+#: kirki/kirki-packages/settings/src/SetupSettings.php:54
+#: kirki/kirki-packages/settings/templates/settings-template.php:23
+msgid ""
+"Kirki Customizer "
+"Framework"
+msgstr ""
+
+#: kirki/kirki-packages/settings/src/SetupSettings.php:55
+msgid "Kirki"
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:15
+msgid ""
+"In order to achieve GDPR-"
+"compliance, Kirki stores "
+"Google Fonts locally on "
+"your server."
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:16
+msgid ""
+"If Google Fonts selected "
+"in the Customizer are "
+"not displayed correctly, "
+"please try clearing the "
+"font cache."
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:19
+msgid ""
+"This is safe to do on "
+"production sites."
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/documentation.php:13
+msgid "Why do I see this?"
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/documentation.php:17
+msgid ""
+"Kirki is a key component "
+"of the WordPress theme "
+"you have installed."
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/documentation.php:20
+msgid ""
+"It provides advanced "
+"customization options "
+"within the WordPress "
+"Customizer, allowing you "
+"to easily modify the "
+"appearance of your site."
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/documentation.php:27
+#: kirki/kirki-packages/settings/templates/metaboxes/documentation.php:37
+msgid "Documentation"
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/documentation.php:31
+msgid ""
+"For more information, "
+"please refer to your "
+"theme's documentation."
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/metaboxes/documentation.php:34
+msgid ""
+"The following article "
+"provides a detailed "
+"explanation of the Clear "
+"Font Cache option in "
+"Kirki."
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/settings-template.php:26
+msgid ""
+"The #1 Customizer "
+"Toolkit for WordPress "
+"Theme Developers."
+msgstr ""
+
+#: kirki/kirki-packages/settings/templates/settings-template.php:38
+msgid "Settings"
+msgstr ""
+
+#: kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:222
+#, php-format
+msgid ""
+"There is a new version "
+"of %1$s available."
+msgstr ""
+
+#: kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:228
+msgid ""
+"Contact your network "
+"administrator to install "
+"the update."
+msgstr ""
+
+#: kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:233
+#, php-format
+msgid ""
+"%1$sView version %2$s "
+"details%3$s."
+msgstr ""
+
+#: kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:241
+#, php-format
+msgid ""
+"%1$sView version %2$s "
+"details%3$s or "
+"%4$supdate now%5$s."
+msgstr ""
+
+#: kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:252
+msgid "Update now."
+msgstr ""
+
+#: kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid ""
+"You do not have "
+"permission to install "
+"plugin updates"
+msgstr ""
+
+#: kirki/pro-src/packages/kirki-pro-tabs/edd/EDD_SL_Plugin_Updater.php:484
+msgid "Error"
+msgstr ""
+
+#: kirki/upgrade-notifications.php:30
+msgid ""
+"Important Upgrade Notice:"
+msgstr ""
+
+#: search.php:10
+#: search.php:12
+#, php-format
+msgid ""
+"Search Results for: %s"
+msgstr ""
+
+#: single.php:112
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/about.php:17
+msgid "About"
+msgstr ""
+
+#: template-parts/contact.php:25
+msgid "Contact"
+msgstr ""
+
+#: template-parts/contact.php:52
+msgid "Location:"
+msgstr ""
+
+#: template-parts/contact.php:64
+msgid "Call:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your "
+"first post? <a "
+"href=\"%1$s\">Get "
+"started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing "
+"matched your search "
+"terms. Please try again "
+"with some different "
+"keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t "
+"find what you&rsquo;re "
+"looking for."
+msgstr ""
+
+#: template-parts/content-page.php:25
+#: template-parts/content.php:53
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:40
+#, php-format
+msgid ""
+"Continue reading<span "
+"class=\"screen-reader-"
+"text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/faq.php:20
+msgid "F.A.Q"
+msgstr ""
+
+#: template-parts/portfolio.php:18
+msgid "Portfolio"
+msgstr ""
+
+#: template-parts/pricing.php:17
+msgid "Pricing"
+msgstr ""
+
+#: template-parts/services.php:19
+msgid "Services"
+msgstr ""
+
+#: template-parts/team.php:16
+msgid "Team"
+msgstr ""
