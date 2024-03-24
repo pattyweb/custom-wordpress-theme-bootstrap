@@ -14,7 +14,7 @@ Settings->Permalink:
 
 Permalink structure> Post Name
 
-Appearance->Widgests-Sidbar:
+Appearance->Widgests-Sidebar:
 Insert 4 shortcodes:
 [new_search_widget]
 [recent_categories]
